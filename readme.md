@@ -17,7 +17,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pearl-fast-food.git
+git clone https://github.com/daniyal-khan-dev/pearl-fast-food.git
 
 # Navigate to project directory
 cd pearl-fast-food
